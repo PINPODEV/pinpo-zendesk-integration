@@ -1,0 +1,15 @@
+{
+	"name": "Pinpo",
+	"author": {
+		"name": "Pinpo",
+		"email": "contact@pinpo.fr",
+		"url": "https://www.pinpo.fr"
+	},
+	"location": {
+		"sell": {}
+	},
+	"defaultLocale": "fr",
+	"marketingOnly": true,
+	"private": false,
+	"termsConditionsURL": "https://www.pinpo.fr/conditions-generales-d-utilisation"
+}
