@@ -57,3 +57,4 @@ build-iPhoneSimulator/
 
 # vscode history plugin
 .history/
+.DS_Store
