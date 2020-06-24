@@ -1,8 +1,8 @@
 {
 	"app": {
 		"name": "Pinpo",
-		"short_description": "Automatisez la qualification de vos leads et réduisez vos coûts d'acquisition avec Pinpo",
-		"long_description": "Pinpo booste la conversion client des moyennes et grandes entreprises grâce à une plateforme SaaS qui automatise et simplifie la qualification des leads. Pinpo s'appuie sur une technologie unique d'IA conversationnelle et une communauté de 70+ experts pour engager et qualifier des leads en moins de 5 min, 24/7, par SMS et WhatsApp dans des conversations naturelles et personnalisées.",
-		"installation_instructions": "Réservez une démo avec notre équipe pour voir comment Pinpo fonctionne en vous rendant sur le lien suivant : www.pinpo.fr/demo. Ou contactez-nous par email à l'adresse : contact@pinpo.fr."
+		"short_description": "Automatisez la qualification de vos leads et boostez vos performances commerciales avec Pinpo.",
+		"long_description": "Pinpo vous permet d'engager et de qualifier 100% de vos leads et de vos clients, et ne laisse passer aucune opportunité commerciale entre les mailles du filet ! Grâce à Pinpo, vous pouvez créer le parfait sales assistant pour engager une conversation naturelle et personnalisée avec chacun de vos leads entrants, 24 / 7, par SMS et WhatsApp. La conversation peut - être engagée moins de 5 min après l 'arrivée du lead dans votre CRM Zendesk, mais aussi plus tard dans le temps. En effet, Pinpo vous permet de relancer intelligemment vos bases dormantes de leads et de clients pour identifier de nouvelles opportunités.\n\n- Puissant\n- Facile à utiliser\n- Intégré à votre écosystème Zendesk et à votre organisation marketing et commerciale\nVous pouvez créer un nombre infini d'assistants et les moduler à volonté. Segmentez vos leads, et attribuez-leur le scénario de conversation de votre choix. Pinpo enrichira automatiquement leur fiche contact avec la conversation menée et les informations qualifiées. Nous exploitons les données recueillies pour analyser rigoureusement vos performances et vous offrir les meilleurs reporting de suivi.",
+		"installation_instructions": "Réservez une démo et découvrez comment Pinpo vous aide à qualifier plus de leads et a améliorez vos performances commerciales."
 	}
 }

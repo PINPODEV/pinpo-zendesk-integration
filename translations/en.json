@@ -1,8 +1,8 @@
 {
 	"app": {
 		"name": "Pinpo",
-		"short_description": "Pinpo automates lead qualification for medium and large-sized companies.",
-		"long_description": "Pinpo boosts companies’ sales conversion rates with a SaaS that automates and simplifies lead qualification. Pinpo relies on a robust AI-powered sales assistant and a community of 70+ experts to engage leads  over natural SMS and WhatsApp conversations, qualify them, and identify the ones that are ready to buy 24/7. With Pinpo, companies are able to decrease their customer acquisition cost. Pinpo's solution caters to many different industries including real estate, banking, insurance, automobile, and more.",
-		"installation_instructions": "Schedule a free consultation with our team to see how Pinpo works : www.pinpo.fr/demo. Or reach out to us by email at contact@pinpo.fr."
+		"short_description": "Automate lead qualification and boost your sales performance with Pinpo.",
+		"long_description": "Pinpo allows you to engage and qualify 100% of your leads and customers, and doesn't let any business opportunity slip through the cracks.\n\nWith Pinpo, you can create the perfect sales assistant to engage natural and personalized conversation with each of your inbound leads, 24/7, via SMS and WhatsApp. The conversation starts within 5 minutes after the lead gets in Zendesk Sell, but also later in time. Indeed, Pinpo allows you to intelligently relaunch your dormant lead and customer base to identify new opportunities.\n\n- Powerful\n- Easy to use\n- Integrated into your Zendesk ecosystem and your marketing and sales organization\n\nYou can create an infinite number of conversation assistant and modulate them at will. Segment your leads and assign them the conversation scenario of your choice. Pinpo will automatically enrich your data base in your CRM with all the qualified information and the exact conversation. We use the data collected to rigorously analyze your performance and help you improve your sales conversion rate.",
+		"installation_instructions": "Book a demo and see how Pinpo helps you qualify more leads and improve your sales performance."
 	}
 }
